@@ -12,14 +12,15 @@ public class AtmProject {
         System.out.println("nesibe branchi kodlarını yazdı.");
         //version nsb1
 
-        System.out.println("Bir kısım kodlar");
+        System.out.println("bir kısım kodlar");
         //nsb2
 
         System.out.println();
         //nsb3
 
         System.out.println();
-
+         //Localde ilk degisikligi yaptim.
+        //remote da degisiklik yaptim
     }
 
 }
